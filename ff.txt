@@ -1,0 +1,7 @@
+lecture 3: loops.
+loops = to do something again and again.
+start=>meoaw*3=>end.
+while im doing that. im gonna do that.
+while i != 0:
+    print("meow")
+
